@@ -4,7 +4,7 @@ This is the Vue Frontend Technical challenge. This challenge consists in a simpl
 
 ## How to do it
 
-For the development of the challenge, there is no backend to point to. However, we give you a small example of a fake API done with [MirageJS|https://miragejs.com/] (in fact, this comes from an example of mirage itself). You can use Mirage to mock the API calls, or you can use whatever other tool you feel comfortable with (nodejs, Python + Flask + Docker, etc). You will notice the example only contains some features, you will need to add the rest of endpoints you need to have a working solution. We don't really care about the concrete endpoints and models you define. It shouldn't take you a long time to fake the API.
+For the development of the challenge, there is no backend to point to. However, we give you a small example of a fake API done with [MirageJS](https://miragejs.com/) (in fact, this comes from an example of mirage itself). You can use Mirage to mock the API calls, or you can use whatever other tool you feel comfortable with (nodejs, Python + Flask + Docker, etc). You will notice the example only contains some features, you will need to add the rest of endpoints you need to have a working solution. We don't really care about the concrete endpoints and models you define. It shouldn't take you a long time to fake the API.
 
 Please, fork this repo into your Github account, and implement there your solution to the challenge.
 
